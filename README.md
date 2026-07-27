@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/BaniGupta/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BaniGupta/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BaniGupta/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BaniGupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BaniGupta/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BaniGupta/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BaniGupta/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/BaniGupta/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BaniGupta/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BaniGupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/BaniGupta/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Binary Search
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/BaniGupta/leetcode/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BaniGupta/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BaniGupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
