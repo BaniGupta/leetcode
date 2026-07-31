@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BaniGupta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/BaniGupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/BaniGupta/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BaniGupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/BaniGupta/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BaniGupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/BaniGupta/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
