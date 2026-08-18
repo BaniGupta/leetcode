@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BaniGupta/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BaniGupta/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/BaniGupta/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/BaniGupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/BaniGupta/leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/BaniGupta/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/BaniGupta/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/BaniGupta/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/BaniGupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/BaniGupta/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BaniGupta/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BaniGupta/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BaniGupta/leetcode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/BaniGupta/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/BaniGupta/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/BaniGupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/BaniGupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/BaniGupta/leetcode/tree/master/0877-stone-game) |
 ## Greedy
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/BaniGupta/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/BaniGupta/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/BaniGupta/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/BaniGupta/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/BaniGupta/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/BaniGupta/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/BaniGupta/leetcode/tree/master/0860-lemonade-change) |
