@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BaniGupta/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/BaniGupta/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/BaniGupta/leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/BaniGupta/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BaniGupta/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BaniGupta/leetcode/tree/master/0162-find-peak-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BaniGupta/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/BaniGupta/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/BaniGupta/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/BaniGupta/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/BaniGupta/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/BaniGupta/leetcode/tree/master/0678-valid-parenthesis-string) |
